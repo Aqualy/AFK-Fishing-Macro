@@ -512,7 +512,7 @@ F6::
 						}
 						else
 						{
-							Sleep 300
+							Sleep 100
 							inti := inti + 1
 							break
 						}
